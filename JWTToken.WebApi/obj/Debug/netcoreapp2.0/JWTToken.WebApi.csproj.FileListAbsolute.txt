@@ -1,0 +1,11 @@
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\bin\Debug\netcoreapp2.0\JWTToken.WebApi.deps.json
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\bin\Debug\netcoreapp2.0\JWTToken.WebApi.runtimeconfig.json
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\bin\Debug\netcoreapp2.0\JWTToken.WebApi.runtimeconfig.dev.json
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\bin\Debug\netcoreapp2.0\JWTToken.WebApi.dll
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\bin\Debug\netcoreapp2.0\JWTToken.WebApi.pdb
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\obj\Debug\netcoreapp2.0\JWTToken.WebApi.csprojAssemblyReference.cache
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\obj\Debug\netcoreapp2.0\JWTToken.WebApi.csproj.CoreCompileInputs.cache
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\obj\Debug\netcoreapp2.0\JWTToken.WebApi.AssemblyInfoInputs.cache
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\obj\Debug\netcoreapp2.0\JWTToken.WebApi.AssemblyInfo.cs
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\obj\Debug\netcoreapp2.0\JWTToken.WebApi.dll
+c:\users\ashankar\documents\visual studio 2017\Projects\JWTToken\JWTToken.WebApi\obj\Debug\netcoreapp2.0\JWTToken.WebApi.pdb
